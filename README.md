@@ -3,6 +3,8 @@
 ### 1. Overview of Project:
 #### We want to develop an analysis for a Des Moines Citi Bike business so we can present it to investors. We have a starting point in Tableau using NYC data and now we want to create a well designed story for our presentation. 
 
+https://public.tableau.com/views/NYCCitiBikeChallenge_16459913041500/NYCCitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ### 2. Results: 
 
    
