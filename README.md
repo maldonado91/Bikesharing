@@ -5,7 +5,7 @@
 
 ### 2. Results: 
 
-    ![CustomerbyUsertype](https://github.com/maldonado91/Bikesharing/blob/main/Resources/CustomersbyUsertype.PNG)    
+    ![CustomerbyUsertype](Resources/CustomersbyUsertype.PNG)    
 * For the two type of users, we can to see a breakdown of each type in tersm of how many rides makeup our total.
 
     ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
