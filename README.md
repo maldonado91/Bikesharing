@@ -6,7 +6,8 @@
 ### 2. Results: 
 
 
-
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
+* We want to look customer/subscriber breakdown for Citi Bike.
 
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
 * We want to look at the general trip durations. While most are within an hour we wanted to expand to 3 hours to see the data. The majority of trips are done within 5 minutes.
