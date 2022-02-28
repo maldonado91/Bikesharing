@@ -8,7 +8,7 @@
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
 * We want to look customer/subscriber breakdown for Citi Bike.
 
-    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Customers%20by%20Usertype.PNG)    
 * We want to look customer/subscriber breakdown for Citi Bike.
 
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
