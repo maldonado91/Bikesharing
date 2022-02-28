@@ -9,22 +9,22 @@
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Customers%20by%20Usertype.PNG)    
 * For the two type of users, we can to see a breakdown of each type in tersm of how many rides makeup our total.
 
-    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20per%20Users.PNG)    
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
 * We want to look at the general trip durations. While most are within an hour we wanted to expand to 3 hours to see the data. The majority of trips are done within 5 minutes.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/Checkout%20Times%20by%20Gender.PNG)    
 * Much like the visual above, we want to look at trip duration but this time with gender as a filter breakdown. Males have the largest usage.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/August%20Peak%20Hours.PNG)    
 * Since we are only looking at Agust, here is the most popular hour of bike usage. The 17th hour (or 5PM) is most popular.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/Trips%20by%20Weekday%20by%20Hour.PNG)    
 * We want o look at how users decide on which times to use bike sand based on the heatmap, users choose morning and afternoon commute times for work. Outside of the, it's fairly even across the weekedn sunlight hours.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/Trips%20by%20Gedner%20(Weekday%20per%20Hour).PNG)    
 * Again, much like the visual above, we wanted to look at gender to get a better idea if these groups chose different usage times. It appears to be the same for both male and female.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/Trip%20by%20Gedner%20by%20Weekday.PNG)    
 * Lastly, we added a visual to look at usertyes and gender by day of the week. Males on thursday have a very high usage rate.
 
 
