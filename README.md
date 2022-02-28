@@ -5,8 +5,8 @@
 
 ### 2. Results: 
 
-    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
-* We want to look customer/subscriber breakdown for Citi Bike.
+   
+* Here are some visuals from our analysis.
 
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Customers%20by%20Usertype.PNG)    
 * We want to look customer/subscriber breakdown for Citi Bike.
