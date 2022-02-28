@@ -6,10 +6,10 @@
 ### 2. Results: 
 
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Customers%20by%20Usertype.PNG)    
 * For the two type of users, we can to see a breakdown of each type in tersm of how many rides makeup our total.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20per%20Users.PNG)    
 * We want to look at the general trip durations. While most are within an hour we wanted to expand to 3 hours to see the data. The majority of trips are done within 5 minutes.
 
     ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/filter_image.PNG)    
