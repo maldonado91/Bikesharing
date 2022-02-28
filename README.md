@@ -12,7 +12,7 @@
     ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)    
 * We want to look at the general trip durations. While most are within an hour we wanted to expand to 3 hours to see the data. The majority of trips are done within 5 minutes.
 
-    ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/Checkout%20Times%20by%20Gender.PNG)    
+    ![filter](https://github.com/maldonado91/Bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.PNG)    
 * Much like the visual above, we want to look at trip duration but this time with gender as a filter breakdown. Males have the largest usage.
 
     ![filter](https://github.com/maldonado91/UFOs/blob/main/Challenge/Resources/August%20Peak%20Hours.PNG)    
